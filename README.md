@@ -10,6 +10,7 @@
 | Document / Tool | Description |
 | :--- | :--- |
 | 📄 **[RECOMMENDATION_REPORT.md](RECOMMENDATION_REPORT.md)** | **The Primary Submission:** Complete Executive & Product Recommendation Report with root causes, version regressions, 30-60-90 day roadmap, and Jira-ready tickets. |
+| 🖥️ **[MoveInSync_FDE_Presentation.pptx](MoveInSync_FDE_Presentation.pptx)** | **Executive Slide Deck:** 11-slide presentation detailing the problem, methodology, data findings, Jira tickets, and the path to 4.7★. |
 | 🏗️ **[ARCHITECTURE.md](ARCHITECTURE.md)** | Full System Architecture, sequence diagrams, taxonomy taxonomy schema, and data pipeline design. |
 | 📊 **`app.py`** | Interactive **Streamlit Executive Dashboard** for ongoing sentiment tracking, version regression auditing, and review slicing. |
 
